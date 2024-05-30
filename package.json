@@ -1,7 +1,7 @@
 {
   "name": "countdowntimer-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple command-line countdown timer built using Node.js and Inquirer.js. The user can input the duration in seconds, and the application will start a countdown, displaying the time in hours, minutes, and seconds format.  ",
   "main": "main.js",
   "type": "module",
   "bin": "main.js",
