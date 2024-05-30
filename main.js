@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let duration = await inquirer.prompt([{
         type: "number",
